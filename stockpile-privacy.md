@@ -1,10 +1,13 @@
 ---
+layout: default
 title: Privacy Policy — Stockpile
+permalink: /stockpile-privacy/
 ---
 
-# Privacy Policy
+# Privacy Policy — Stockpile
 
 **Effective date:** 2026-05-26
+**Publisher:** BlackStar Dynamics
 
 **Plain-English summary:** Stockpile does not collect any data about you. Everything you enter into the app stays on your iPhone unless you choose to export and share it yourself. We don't operate any servers. We don't have user accounts. We don't run analytics. We don't track you across apps or websites.
 
@@ -16,7 +19,7 @@ If that's all you wanted to know, you're done. The rest of this page exists to s
 
 This app is published by **BlackStar Dynamics**. References below to *"we"*, *"us"*, and *"our"* mean BlackStar Dynamics. References to *"the app"* mean **Stockpile** on iOS.
 
-To contact us about this policy or the app, email **owner@blackstardynamics.com** (or open an issue at <https://github.com/BlackStarDynamics/Stockpile>).
+To contact us about this policy or the app, email **owner@blackstardynamics.com**.
 
 ## 2. What information the app handles
 
@@ -48,9 +51,9 @@ The app may ask your permission to access:
 
 You can revoke either permission at any time in **iOS Settings → Stockpile**.
 
-## 5. Children's privacy
+## 5. Children
 
-The app is not directed at children under 13. We do not knowingly collect personal information from anyone — adults or children — because we don't collect anything at all.
+Stockpile is not directed at children under 13 and does not knowingly collect data from them.
 
 ## 6. Your control over your data
 
@@ -65,12 +68,11 @@ There is no separate request you need to submit to us to delete your data — we
 
 ## 7. Changes to this policy
 
-If we change this policy, the new version will replace this page and the *Effective date* at the top will be updated. We'll keep older versions in the project's Git history for transparency.
+If we update this policy, the new version will be posted at this URL with an updated *Effective date*. For TestFlight beta builds, material changes will be flagged in the TestFlight What's New notes for the corresponding build.
 
-## 8. Jurisdiction
+## Contact
 
-BlackStar Dynamics is based in the United States. This policy is written under U.S. law. The app does not target users in any specific region, and Apple distributes it through the App Store in the regions you've selected for availability.
+Questions about this policy or your data:
 
----
-
-*Last updated 2026-05-26.*
+**BlackStar Dynamics**
+Email: owner@blackstardynamics.com
